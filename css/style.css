@@ -153,6 +153,14 @@ sup {
   top: -.5em;
 }
 
+
+.icono-regalo {
+  width: 70px; /* Tamaño del icono, ajusta el valor como prefieras */
+  height: 70px; /* Mantener la proporción del icono */
+  object-fit: contain; /* Asegura que el icono mantenga su aspecto */
+}
+
+
 a {
   color: #6a5b3a;
   text-decoration: none;
